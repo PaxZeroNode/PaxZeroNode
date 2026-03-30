@@ -11,13 +11,10 @@ Support the build:
 
 Hire the work:
 
-- Consulting packages
-- Architecture audit
-- Benchmark evaluation service
-
-Inquiry path:
-
-- [https://github.com/PaxZeroNode/PaxZeroNode.github.io/issues/new/choose](https://github.com/PaxZeroNode/PaxZeroNode.github.io/issues/new/choose)
+- Strategy call: [https://github.com/PaxZeroNode/PaxZeroNode.github.io/issues/new?template=book-strategy-call.yml](https://github.com/PaxZeroNode/PaxZeroNode.github.io/issues/new?template=book-strategy-call.yml)
+- Architecture audit: [https://github.com/PaxZeroNode/PaxZeroNode.github.io/issues/new?template=request-architecture-audit.yml](https://github.com/PaxZeroNode/PaxZeroNode.github.io/issues/new?template=request-architecture-audit.yml)
+- Benchmark evaluation: [https://github.com/PaxZeroNode/PaxZeroNode.github.io/issues/new?template=request-benchmark-evaluation.yml](https://github.com/PaxZeroNode/PaxZeroNode.github.io/issues/new?template=request-benchmark-evaluation.yml)
+- Full intake chooser: [https://github.com/PaxZeroNode/PaxZeroNode.github.io/issues/new/choose](https://github.com/PaxZeroNode/PaxZeroNode.github.io/issues/new/choose)
 
 Public channels:
 
